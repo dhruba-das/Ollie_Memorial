@@ -15,11 +15,13 @@
             font-family: Arial, sans-serif;
             text-align: center;
             color: #5D3FD3;
+            padding: 20px;
         }
         .slideshow-container {
             position: relative;
-            width: 800px;
-            height: 500px;
+            width: 80%;
+            max-width: 800px;
+            height: auto;
             border: 12px solid #9370DB;
             border-radius: 15px;
             overflow: hidden;
@@ -27,19 +29,21 @@
         }
         .slides {
             width: 100%;
-            height: 100%;
+            height: auto;
+            max-height: 500px;
             display: none;
         }
         .message {
             font-size: 18px;
-            max-width: 500px;
+            max-width: 90%;
         }
         .buttons {
             margin-top: 10px;
+            display: flex;
+            gap: 10px;
         }
         .buttons button {
             padding: 10px 20px;
-            margin: 5px;
             font-size: 16px;
             background-color: #9370DB;
             color: white;
@@ -47,10 +51,23 @@
             cursor: pointer;
             border-radius: 5px;
         }
+        @media (max-width: 600px) {
+            .slideshow-container {
+                width: 100%;
+                border: 8px solid #9370DB;
+            }
+            .buttons button {
+                padding: 8px 15px;
+                font-size: 14px;
+            }
+            .message {
+                font-size: 16px;
+            }
+        }
     </style>
 </head>
 <body>
-<h1>In Loving Memory of Oliver</h1>
+<h1>In Loving Memory of Ollie</h1>
 <div class="slideshow-container" id="slideshow"></div>
 <div class="buttons">
     <button onclick="prevSlide()">Previous</button>
