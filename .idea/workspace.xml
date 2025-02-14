@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a8d129f8-fe11-42f2-972b-3042034544b5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_51.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_52.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_53.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_55.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_56.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_57.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_58.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_59.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_6.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_60.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_61.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ollie_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2t2mn7j5jBVgPVBmW16AW3lSMb1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.main.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/dhrubadas/WebstormProjects/Ollie_Memorial/assets",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.222" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8d129f8-fe11-42f2-972b-3042034544b5" name="Changes" comment="" />
+      <created>1739558707480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739558707480</updated>
+      <workItem from="1739558708510" duration="1461000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

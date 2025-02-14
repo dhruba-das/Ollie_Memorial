@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>In Memory of Ollie</title>
+    <style>
+        body {
+            background-color: #E6D6FF;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            color: #5D3FD3;
+        }
+        .slideshow-container {
+            position: relative;
+            width: 800px;
+            height: 500px;
+            border: 12px solid #9370DB;
+            border-radius: 15px;
+            overflow: hidden;
+            margin-bottom: 20px;
+        }
+        .slides {
+            width: 100%;
+            height: 100%;
+            display: none;
+        }
+        .message {
+            font-size: 18px;
+            max-width: 500px;
+        }
+        .buttons {
+            margin-top: 10px;
+        }
+        .buttons button {
+            padding: 10px 20px;
+            margin: 5px;
+            font-size: 16px;
+            background-color: #9370DB;
+            color: white;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+<h1>In Loving Memory of Ollie</h1>
+<div class="slideshow-container" id="slideshow"></div>
+<div class="buttons">
+    <button onclick="prevSlide()">Previous</button>
+    <button onclick="nextSlide()">Next</button>
+</div>
+<p class="message">Ollie, you brought joy and love into our lives. You will always be in our hearts. Rest peacefully, little one. ❤️</p>
+<script>
+    let slideIndex = 0;
+    let totalImages = 75;
+    let slideshowContainer = document.getElementById("slideshow");
+
+    for (let i = 1; i <= totalImages; i++) {
+        if (i === 6) {
+            let video = document.createElement("video");
+            video.src = `Ollie_${i}.mp4`;
+            video.controls = true;
+            video.classList.add("slides");
+            video.onended = function() {
+                setTimeout(autoSlide, 1000);
+            };
+            slideshowContainer.appendChild(video);
+        } else {
+            let img = document.createElement("img");
+            img.src = `Ollie_${i}.jpg`;
+            img.alt = "Ollie";
+            img.classList.add("slides");
+            slideshowContainer.appendChild(img);
+        }
+    }
+
+    let slides = document.getElementsByClassName("slides");
+
+    function showSlide(n) {
+        for (let i = 0; i < slides.length; i++) {
+            slides[i].style.display = "none";
+        }
+        slides[n].style.display = "block";
+    }
+
+    function nextSlide() {
+        slideIndex = (slideIndex + 1) % slides.length;
+        showSlide(slideIndex);
+
+        if (slideIndex === 5) { // Since Ollie_6.mp4 is the 6th slide (index 5)
+            let video = slides[slideIndex];
+            video.play();
+        } else {
+            setTimeout(autoSlide, 3000);
+        }
+    }
+
+    function prevSlide() {
+        slideIndex = (slideIndex - 1 + slides.length) % slides.length;
+        showSlide(slideIndex);
+    }
+
+    function autoSlide() {
+        nextSlide();
+    }
+
+    showSlide(slideIndex);
+    setTimeout(autoSlide, 3000);
+</script>
+</body>
+</html>
